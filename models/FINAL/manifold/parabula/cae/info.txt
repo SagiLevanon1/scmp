@@ -1,0 +1,6 @@
+encoder:
+2 non-linear layers (sigmoid)
+decoder:
+2 non-linear layers (sigmoid) + linear layer
+
+hidden dimention: 20
