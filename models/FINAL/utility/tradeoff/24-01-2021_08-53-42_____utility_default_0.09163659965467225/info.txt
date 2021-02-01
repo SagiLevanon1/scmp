@@ -1,0 +1,9 @@
+training time in seconds: 443.9581255912781
+epoch: 0
+batch size: 64
+train slope: 1
+eval slope: 5
+learning rate: 0.05
+validation loss: 0.6853532066819914
+validation error: 0.30533333333333335
+utility: -0.07486367043902213
