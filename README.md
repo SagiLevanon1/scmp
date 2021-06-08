@@ -9,7 +9,7 @@ Strategic classification regards the problem of learning in settings where users
 
 ## Installing and Executing program
 
-* Setup the environment supplemented in environment.yml
+* Setup the environment supplied in environment.yml
 * Run a notebook
 
 ## Authors
