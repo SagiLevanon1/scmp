@@ -1,1 +1,1 @@
-"# scmp" 
+Strategic classification made practical
