@@ -20,11 +20,6 @@ Sagi Levanon
 Nir Rosenfeld  
 [@NirRosenfeld](nirr@cs.technion.ac.il)
 
-## notes
-
-* This is a first-stable version of our code (Alpha version). A full, more modular and easy-to-use version of the package will be published soon.
-* For any requests, ideas and information, please contact us.
-
 ## Acknowledgments
 
 * [cvxpylayers](https://github.com/cvxgrp/cvxpylayers)
